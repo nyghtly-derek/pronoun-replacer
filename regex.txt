@@ -1,0 +1,14 @@
+(?<![a-zA-Z])(she)(?![a-zA-Z])
+(?<![a-zA-Z])(She)(?![a-zA-Z])
+
+(?<![a-zA-Z])(her)(?![a-zA-Z])
+(?<![a-zA-Z])(Her)(?![a-zA-Z])
+
+(?<![a-zA-Z])(hers)(?![a-zA-Z])
+(?<![a-zA-Z])(Hers)(?![a-zA-Z])
+
+(?<![a-zA-Z])(herself)(?![a-zA-Z])
+(?<![a-zA-Z])(Herself)(?![a-zA-Z])
+
+(?<![a-zA-Z])(she's)(?![a-zA-Z])
+(?<![a-zA-Z])(She's)(?![a-zA-Z])
